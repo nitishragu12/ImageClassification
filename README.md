@@ -1,2 +1,2 @@
 # ImageClassification
-This is a minor project on Image Classification
+This is a project on Image Classification of different kinds of fruits
